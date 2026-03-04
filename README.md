@@ -33,7 +33,8 @@ The goal of this project is to demonstrate **data visualization, data modeling, 
 ### Main Dashboard
 <img width="1419" height="745" alt="dashboard1" src="https://github.com/user-attachments/assets/7249ad26-0d38-43f0-93c5-a3383a85b6a0" />
 
-<img width="1416" height="745" alt="dashboard2" src="https://github.com/user-attachments/assets/480b5085-c651-4680-9cc7-6504e47e8f92" />
+<img width="1416" height="743" alt="dashboard2" src="https://github.com/user-attachments/assets/eb4ab9c2-3e71-46d0-8c02-e9f5274a672d" />
+
 
 
 
